@@ -1,0 +1,2 @@
+# Mandelbrot
+Przeglądarka zbioru Mandelbrota
